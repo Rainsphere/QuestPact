@@ -1,0 +1,4 @@
+sync/build/
+sync/dist/
+__pycache__/
+*.pyc

@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: QuestPact
+## Notes: Quest together, even when you can't play together. Live party quest sync plus offline catch-up between partner characters.
+## Author: Yva
+## Version: 1.0.0
+## Category: Quests
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## OptionalDeps: Questie
+## SavedVariables: QuestPactDB
+## AddonCompartmentFunc: QuestPact_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: QuestPact_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: QuestPact_OnCompartmentLeave
+
+PartnerData.lua
+Core.lua
+Questie.lua
+Snapshot.lua
+ListWindow.lua
+Comm.lua
+PartyWindow.lua
+CatchUp.lua
+Options.lua
